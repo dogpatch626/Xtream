@@ -126,7 +126,7 @@ export default class homePage extends Component {
                     Classification: Small Business NAICS codes: 561720 –
                     Janitorial Services 561790 - Other Services to Buildings &
                     Dwellings NIGP Code: 910-39 - Janitorial/Custodial Services
-                    910-03 - Building Cleaning, Exterio
+                    910-03 - Building Cleaning, Exterior
                   </li>
                 </ul>
               </div>
