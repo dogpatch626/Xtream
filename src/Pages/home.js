@@ -113,22 +113,40 @@ export default class homePage extends Component {
                     <li>Carpet Care /Floor Strip/ Wax</li>
                     <li> Power Washing Cleaning</li>
                     <li>Windows In/Out / Restroom Cleaning</li>
+                    <b>
+                      {" "}
+                      <li>Disinfecting, Sanitizing & antiviral cleaning</li>
+                    </b>
+                    <b>
+                      {" "}
+                      <li>Covid19</li>
+                    </b>
+                    <b>
+                      {" "}
+                      <li> Mold</li>
+                    </b>
+                    <b>
+                      {" "}
+                      <li> Influenza (flu)</li>
+                    </b>
                   </ul>
                 </div>
               </div>
               <div className="col">
                 <h1 style={{ color: "lightblue" }}>Info/Codes</h1>
                 <ul>
-                  <li>
-                    Vendor Information: Small Business/ Woman Owned Business
-                  </li>
-                  <li>
-                    Classification: Small Business NAICS codes: 561720 –
-                    Janitorial Services 561790 - Other Services to Buildings &
-                    Dwellings NIGP Code: 910-39 - Janitorial/Custodial Services
-                    910-03 - Building Cleaning, Exterior
-                  </li>
+                  Vendor Information:{" "}
+                  <li>Small Business/ Woman Owned Business</li>
+                  <b>
+                    <ul>Classification: Small Business NAICS codes:</ul>
+                  </b>
+                  <li> 561720 – Janitorial Services</li>
+                  <li> 561790 - Other Services to Buildings & Dwellings </li>
                 </ul>
+                <ul>
+                  NIGP Code:<li> 910-39 - Janitorial/Custodial Services</li>
+                  <li> 910-03 - Building Cleaning, Exterior</li>
+                </ul>{" "}
               </div>
               <div className="col">
                 <h1 style={{ color: "lightblue" }}>Contact us!</h1>
