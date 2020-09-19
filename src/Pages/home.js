@@ -157,7 +157,7 @@ export default class homePage extends Component {
                 <ul>
                   Contact info
                   <li>
-                    Phone: 917-376-0513 Contact: Omaira Lugo Email:
+                    Phone: 917-376-0513 Contact: Belkis Palacios Email:
                     Xtremeclean29@gmail.com
                   </li>
                 </ul>
